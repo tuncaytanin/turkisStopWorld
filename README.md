@@ -2,16 +2,16 @@
 Türkçe Etkisiz Kelimeler (Stop Worlds)
 Etkisiz Kelimeler (Stop words) bir dilde çok sık kullanılan (Türkçe’de “bir”, “şu”, “şey” gibi)  kelimelerdir. Bir cümledeki anlamlı kelimeleri çıkarmak bu listedeki kelimelri çıkartarak daha hızlı sonuçlar oluşturabilir. Kullandığım bir projede farklı kaynakları derleyerek oluşturum. Umarım sizler içinde faydalı olur.
 
-## acaba
-## altı
-## altmış
-## ama
-## ancak
-## artık
-## asla
-## aslında
-## az
-## bana
+###### acaba
+###### altı
+###### altmış
+###### ama
+###### ancak
+###### artık
+###### asla
+###### aslında
+###### az
+###### bana
 ## bazen
 ## bazı
 ## bazıları
@@ -221,8 +221,8 @@ zaten
 0
 
 
-Kaynak 1 : https://www.turkceogretimi.com/genel-konular/turkce-etkisiz-kelimeler-stop-words-listesi-11
-Kaynak 2 : https://www.kaggle.com/code/mpwolke/turkish-stop-words-w2v/data?select=turkish.txt
+[Kaynak 1](https://www.turkceogretimi.com/genel-konular/turkce-etkisiz-kelimeler-stop-words-listesi-11).
+[Kaynak 2](https://www.kaggle.com/code/mpwolke/turkish-stop-words-w2v/data?select=turkish.txt).
 
 [TurkceEtkisizKelimeler.txt](https://github.com/tuncaytanin/turkisStopWorld/files/9908988/TurkceEtkisizKelimeler.txt)
 
