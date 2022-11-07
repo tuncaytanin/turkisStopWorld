@@ -2,8 +2,8 @@
 Türkçe Etkisiz Kelimeler (Stop Worlds)
 Etkisiz Kelimeler (Stop words) bir dilde çok sık kullanılan (Türkçe’de “bir”, “şu”, “şey” gibi)  kelimelerdir. Bir cümledeki anlamlı kelimeleri çıkarmak bu listedeki kelimelri çıkartarak daha hızlı sonuçlar oluşturabilir. Kullandığım bir projede farklı kaynakları derleyerek oluşturum. Umarım sizler içinde faydalı olur.
 
-##acaba
-##altı \n
+## acaba
+## altı
 altmış
 ama
 ancak
