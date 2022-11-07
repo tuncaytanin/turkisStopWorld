@@ -4,75 +4,75 @@ Etkisiz Kelimeler (Stop words) bir dilde çok sık kullanılan (Türkçe’de �
 
 ## acaba
 ## altı
-altmış
-ama
-ancak
-artık
-asla
-aslında
-az
-bana
-bazen
-bazı
-bazıları
-bazısı
-belki
-ben
-benden
-beni
-benim
-beş
-bile
-bin
-bir
-birçoğu
-birçok
-birçokları
-biri
-birkaç
-birkaçı
-birkez
-birşey
-birşeyi
-biz
-bizden
-bize
-bizi
-bizim
-böyle
-böylece
-bu
-buna
-bunda
-bundan
-bunu
-bunun
-bütün
-çoğu 
-çoğuna 
-çoğunu
-çok
-çünkü
-da
-daha
-dahi
-de
-defa
-değil
-demek
-diğer
-diğeri
-diğerleri
-diye
-doksan
-dokuz
-dolayı
-dört
-elbette
-elli
-en
-fakat
-felena
+## altmış
+## ama
+## ancak
+## artık
+## asla
+## aslında
+## az
+## bana
+## bazen
+## bazı
+## bazıları
+## bazısı
+## belki
+## ben
+## benden
+## beni
+## benim
+## beş
+## bile
+## bin
+## bir
+## birçoğu
+## birçok
+## birçokları
+## biri
+## birkaç
+## birkaçı
+## birkez
+## birşey
+## birşeyi
+## biz
+## bizden
+## bize
+## bizi
+## bizim
+## böyle
+## böylece
+## bu
+## buna
+## bunda
+## bundan
+## bunu
+## bunun
+## bütün
+## çoğu 
+## çoğuna 
+## çoğunu
+## çok
+## çünkü
+## da
+## daha
+## dahi
+## de
+## defa
+## değil
+## demek
+## diğer
+## diğeri
+## diğerleri
+## diye
+## doksan
+## dokuz
+## dolayı
+## dört
+## elbette
+## elli
+## en
+## fakat
+## felena
 filan
 gene
 gibi
@@ -209,6 +209,16 @@ yirmi
 yoksa
 yüz
 zaten
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
 
 
 Kaynak 1 : https://www.turkceogretimi.com/genel-konular/turkce-etkisiz-kelimeler-stop-words-listesi-11
